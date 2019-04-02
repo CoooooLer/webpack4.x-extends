@@ -44,4 +44,4 @@ npm run build
 
 
 ### Customize configuration
-See [webpack4.x-extends](https://cli.vuejs.org/config/).
+See [vue](https://cli.vuejs.org/config/).
